@@ -29,17 +29,17 @@ Sangat cocok untuk pengguna laptop yang sering mengalami masalah tombol *power* 
 ## 🚀 Cara Penggunaan
 
 1. **Unduh / Clone Repositori:**
-   ```bash
-   git clone [https://github.com/ahmadjaki931/keyboard-remap.git] (https://github.com/ahmadjaki931/keyboard-remap.git)
+   ```bash 
+   git clone https://github.com/ahmadjaki931/keyboard-remap.git
    cd keyboard-remap
-   
-2. **Jalankan Aplikasi:**
+   ```
+3. **Jalankan Aplikasi:**
 Klik ganda pada file .py atau jalankan via Terminal/Command Prompt:
 
 ```bash
   python keyboard-remap.py
-  (Aplikasi akan otomatis meminta izin Run as Administrator).
 ```
+  (Aplikasi akan otomatis meminta izin Run as Administrator).
 
 3. **Langkah Memblokir Tombol:**
 - Centang opsi tombol preset yang ingin diblokir, ATAU
