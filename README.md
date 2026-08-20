@@ -2,7 +2,7 @@
 
 Aplikasi GUI berbasis Python (Tkinter) untuk memblokir sinyal tombol keyboard yang mengalami *short circuit*, *ghosting*, atau rusak (seperti tombol Power `255`, Caps Lock, Sleep) secara permanen di tingkat sistem operasi menggunakan Windows Registry (`Scancode Map`).
 
-Sangat cocok untuk pengguna laptop (seperti seri ASUS Vivobook A442UR) yang sering mengalami masalah tombol *power* tertekan sendiri atau laptop yang mendadak gagal *sleep*.
+Sangat cocok untuk pengguna laptop yang sering mengalami masalah tombol *power* tertekan sendiri atau laptop yang mendadak gagal *sleep*.
 
 ---
 
