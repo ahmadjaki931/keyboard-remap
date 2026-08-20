@@ -31,7 +31,7 @@ Sangat cocok untuk pengguna laptop yang sering mengalami masalah tombol *power* 
 1. **Unduh / Clone Repositori:**
    ```bash
    git clone https://github.com/ahmadjaki931/keyboard-remap.git
-   cd multi-key-registry-blocker
+   cd keyboard-remap
    
 2. **Jalankan Aplikasi:**
 Klik ganda pada file .py atau jalankan via Terminal/Command Prompt:
