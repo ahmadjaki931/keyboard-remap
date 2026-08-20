@@ -30,7 +30,7 @@ Sangat cocok untuk pengguna laptop yang sering mengalami masalah tombol *power* 
 
 1. **Unduh / Clone Repositori:**
    ```bash
-   git clone https://github.com/ahmadjaki931/keyboard-remap.git
+   git clone [https://github.com/ahmadjaki931/keyboard-remap.git] (https://github.com/ahmadjaki931/keyboard-remap.git)
    cd keyboard-remap
    
 2. **Jalankan Aplikasi:**
@@ -54,4 +54,4 @@ Perubahan registry ini membutuhkan Restart/Reboot sistem operasi agar Scancode M
 Jika Anda telah mengganti keyboard fisik yang rusak dengan modul keyboard baru, cukup buka aplikasi ini lalu klik Reset ke Default dan restart PC Anda.
 
 ## 📄 Lisensi
-Proyek ini dirilis di bawah lisensi MIT License.
+Proyek ini dirilis di bawah lisensi [MIT License](LICENSE).
