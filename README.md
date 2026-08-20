@@ -30,7 +30,7 @@ Sangat cocok untuk pengguna laptop yang sering mengalami masalah tombol *power* 
 
 1. **Unduh / Clone Repositori:**
    ```bash
-   git clone [https://github.com/username/multi-key-registry-blocker.git](https://github.com/username/multi-key-registry-blocker.git)
+   git clone https://github.com/ahmadjaki931/keyboard-remap.git
    cd multi-key-registry-blocker
    
 2. **Jalankan Aplikasi:**
